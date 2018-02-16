@@ -8,4 +8,5 @@ Edit the Src/Util/Spotify.js file to provide the client ID of spotify app and  r
 Then run the following command,
 
 npm run start
+
 visit http://localhost:3000
